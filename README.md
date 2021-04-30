@@ -10,5 +10,5 @@ filmovi i serije su sortirani po najvećim ocjenama i na home stranici se ispisu
 konfiguracija CORS-a,
 
 -na frontend-u je urađen toogleSwitch za prebacivanje između page-ova za filmove i serije, search koji pretražuje 
-sve textualne atribute movie tabele, Routing i api pozivi i prikaz slika koje su spašene lokalno
+sve textualne atribute movie tabele, Routing, API pozivi preko axios-a i prikaz slika koje su spašene lokalno
 
